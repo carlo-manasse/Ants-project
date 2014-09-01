@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1287505801 source:c:\documents and settings\io\documenti\informatica\opengl\prog4\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/glaux.h>
+	<math.h>
+	<time.h>
+	<dos.h>
+
+1291395966 source:c:\documents and settings\io\documenti\informatica\opengl\prog5\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/glaux.h>
+	<math.h>
+	<time.h>
+	<dos.h>
+
